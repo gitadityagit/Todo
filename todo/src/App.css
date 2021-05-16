@@ -1,0 +1,13 @@
+.App{
+    text-align: center;
+}
+
+.footer{
+    position: fixed;
+    background-color:#222222;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+
+}
